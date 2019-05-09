@@ -14,7 +14,6 @@
 		6B7E37B722486B60004402F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B7E37B522486B60004402F7 /* LaunchScreen.storyboard */; };
 		6B7E37BA22486B60004402F7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B7E37B922486B60004402F7 /* main.m */; };
 		6B7E37F322486C88004402F7 /* VideoH264EnCode.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B7E37EE22486C88004402F7 /* VideoH264EnCode.m */; };
-		6B7E37FC22486E81004402F7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6B7E37FB22486E81004402F7 /* README.md */; };
 		6B7E380022487140004402F7 /* CaptureViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B7E37FF22487140004402F7 /* CaptureViewController.m */; };
 		6BC68142227293F5002F29F1 /* VideoH264Decoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BC6813B227293F4002F29F1 /* VideoH264Decoder.m */; };
 		6BC68143227293F5002F29F1 /* LivePlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BC6813F227293F5002F29F1 /* LivePlayerViewController.m */; };
@@ -34,7 +33,6 @@
 		6B7E37B922486B60004402F7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6B7E37EC22486C88004402F7 /* VideoH264EnCode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoH264EnCode.h; sourceTree = "<group>"; };
 		6B7E37EE22486C88004402F7 /* VideoH264EnCode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoH264EnCode.m; sourceTree = "<group>"; };
-		6B7E37FB22486E81004402F7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6B7E37FE22487140004402F7 /* CaptureViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CaptureViewController.h; sourceTree = "<group>"; };
 		6B7E37FF22487140004402F7 /* CaptureViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CaptureViewController.m; sourceTree = "<group>"; };
 		6BC6813B227293F4002F29F1 /* VideoH264Decoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoH264Decoder.m; sourceTree = "<group>"; };
@@ -59,7 +57,6 @@
 		6B7E379E22486B5E004402F7 = {
 			isa = PBXGroup;
 			children = (
-				6B7E37FB22486E81004402F7 /* README.md */,
 				6B7E37A922486B5E004402F7 /* LCLive_Capture */,
 				6B7E37A822486B5E004402F7 /* Products */,
 			);
@@ -190,7 +187,6 @@
 			files = (
 				6B7E37B722486B60004402F7 /* LaunchScreen.storyboard in Resources */,
 				6B7E37B422486B60004402F7 /* Assets.xcassets in Resources */,
-				6B7E37FC22486E81004402F7 /* README.md in Resources */,
 				6B7E37B222486B5E004402F7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
